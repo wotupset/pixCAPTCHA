@@ -1,5 +1,5 @@
-PHP¹Ï¤ùÅçÃÒ½X
+ï»¿PHPåœ–ç‰‡é©—è­‰ç¢¼
 
-pixcap.php -- ²£¥Í¹Ï¤ù
-pixCAPTCHA.php -- ½d¨Ò
-ttf.ttf -- ¦r«¬
+pixcap.php -- ç”¢ç”Ÿåœ–ç‰‡
+pixCAPTCHA.php -- ç¯„ä¾‹
+ttf.ttf -- å­—åž‹
