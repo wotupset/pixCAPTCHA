@@ -5,7 +5,7 @@
  * 自己改写记录session $code
  */
 session_start(); 
-vCode(4, 30); //4个数字，显示大小为15
+vCode(4, 15); //4个数字，显示大小为15
 
 function vCode($num = 6, $size = 20, $width = 0, $height = 0) {
 	//!$width && $width = $num * $size * 4 / 5 + 5;
